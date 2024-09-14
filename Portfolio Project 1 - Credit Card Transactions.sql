@@ -123,6 +123,3 @@ GROUP BY city
 HAVING COUNT(1)=2
 ORDER BY datediff1
 LIMIT 1; 
--- once you are done with this create a github repo to put that link in your resume. Some example github links:
--- https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/tree/master/Advanced%20SQL%20for%20Application%20Development
--- https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql
